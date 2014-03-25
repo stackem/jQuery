@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[\$.ajax({
+	<content><![CDATA[\ajax({
 	url: '${1:/path/to/file}',
 	${2:type: '${3:default GET (Other values: POST)}',}
 	${4:dataType: '${5:default: Intelligent Guess (Other values: xml, json, script, or html)}',}
